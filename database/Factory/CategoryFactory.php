@@ -17,7 +17,7 @@ use App\Models\Category;
  *
  * @extends \Mantle\Database\Factory\Term_Factory<\App\Models\Category, \WP_Term, \App\Models\Category>
  */
-class Category_Factory extends \Mantle\Database\Factory\Term_Factory {
+class CategoryFactory extends \Mantle\Database\Factory\Term_Factory {
 	/**
 	 * Model to use when creating objects.
 	 *

@@ -13,7 +13,7 @@ use Mantle\Facade\Event;
 /**
  * Event Service Provider
  */
-class Event_Service_Provider extends Service_Provider {
+class EventServiceProvider extends Service_Provider {
 	/**
 	 * The event listener mappings for the application.
 	 *

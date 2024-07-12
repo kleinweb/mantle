@@ -17,7 +17,7 @@ use App\Models\Tag;
  *
  * @extends \Mantle\Database\Factory\Term_Factory<\App\Models\Tag, \WP_Term, \App\Models\Tag>
  */
-class Tag_Factory extends \Mantle\Database\Factory\Term_Factory {
+class TagFactory extends \Mantle\Database\Factory\Term_Factory {
 	/**
 	 * Model to use when creating objects.
 	 *

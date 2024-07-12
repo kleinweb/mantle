@@ -15,7 +15,7 @@ use Mantle\Queue\Queueable;
 /**
  * Example Job that can be queued.
  */
-class Example_Job implements Job, Can_Queue {
+class ExampleJob implements Job, Can_Queue {
 	use Queueable;
 	use Dispatchable;
 

@@ -13,7 +13,7 @@ use Mantle\Scheduling\Schedule;
 /**
  * Application Service Provider
  */
-class App_Service_Provider extends Service_Provider {
+class AppServiceProvider extends Service_Provider {
 	/**
 	 * Register any application services.
 	 */

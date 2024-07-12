@@ -13,7 +13,7 @@ use Mantle\Facade\Asset;
 /**
  * Asset Service Provider
  */
-class Asset_Service_Provider extends Service_Provider {
+class AssetServiceProvider extends Service_Provider {
 	/**
 	 * Boot the service provider.
 	 *

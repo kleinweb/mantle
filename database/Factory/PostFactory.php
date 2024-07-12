@@ -17,7 +17,7 @@ use App\Models\Post;
  *
  * @extends \Mantle\Database\Factory\Post_Factory<\App\Models\Post, \WP_Post, \App\Models\Post>
  */
-class Post_Factory extends \Mantle\Database\Factory\Post_Factory {
+class PostFactory extends \Mantle\Database\Factory\Post_Factory {
 	/**
 	 * Model to use when creating objects.
 	 *

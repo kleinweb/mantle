@@ -12,7 +12,7 @@ use Mantle\Database\Seeder;
 /**
  * Application Seeder
  */
-class Database_Seeder extends Seeder {
+class DatabaseSeeder extends Seeder {
 	/**
 	 * Run the seeder.
 	 */
